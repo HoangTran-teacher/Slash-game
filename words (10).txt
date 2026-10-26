@@ -1,0 +1,10 @@
+@title Pirate Slash
+@showtext off
+
+# Our school
+🔤 | classroom
+📚 | library
+🏫 | school
+🎠 | playground
+👩‍🏫 | teacher
+flag | Is this {f} {w}? | Yes, it is. | No, it isn't. | our | their
